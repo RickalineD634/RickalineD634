@@ -1,4 +1,9 @@
-### Hi there 👋
+### Coucou
+
+Je suis Rick et je dispose quelques travaux et des cours que je numerise... 😄
+
+A plus tard.
+
 
 <!--
 **RickalineD634/RickalineD634** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
